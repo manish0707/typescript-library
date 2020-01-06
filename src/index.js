@@ -2,6 +2,11 @@ import {
     addArray
 } from './adder'
 
-const arr = [10, 20, 30];
+module.exports = {
+    addArray
+}
 
-console.log(addArray(arr));
+export {
+    addArray
+}
+from './adder'
