@@ -1,5 +1,5 @@
-const arr = require('./adder')
+const sort = require('./sort')
 
 module.exports = {
-    addArray: arr.addArray
+    mySort: sort
 }
