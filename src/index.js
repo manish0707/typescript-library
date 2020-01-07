@@ -1,5 +1,5 @@
-const sort = require('./sort')
+const sort = require("./sort");
 
 module.exports = {
-    mySort: sort
-}
+  mySort: sort
+};
