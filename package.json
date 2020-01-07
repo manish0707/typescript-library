@@ -2,7 +2,7 @@
   "name": "library",
   "version": "1.0.0",
   "description": "A typescript library",
-  "main": "./dist/index.js",
+  "main": "./src/index.ts",
   "dependencies": {},
   "devDependencies": {
     "ts-loader": "^6.2.1",
